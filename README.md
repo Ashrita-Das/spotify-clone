@@ -41,6 +41,7 @@ This was made by a follow-along tutorial by [codewithantonio](https://www.codewi
 ## Built With
 - [React](https://react.dev/)
 - [Next.js 13.4](https://nextjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [PostgreSQL](https://www.postgresql.org/)
 - [Supabase](https://supabase.com/)
